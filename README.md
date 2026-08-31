@@ -11,3 +11,7 @@ d71faf5d-dd31-4499-9f2f-88c2b26ae053
 becb0eab-c77b-4f2b-a358-cd8c41c41a8d
 #Yasu
 c4d868c6-0c7e-4b86-a05f-772fc7521c67
+#Adispot SteelWing TriggeredBoy
+f634699c-443b-4a68-abe3-b8d382f5436d
+d37eae02-cd8e-4e9c-b9d3-313b59ce792f
+994f359f-ca40-4a20-8db5-8355a173a21d
