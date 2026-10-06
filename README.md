@@ -18,6 +18,13 @@ d37eae02-cd8e-4e9c-b9d3-313b59ce792f
 
 <!-- BLUMECORE-MANAGED-START -->
 
+# BlumeCore: Acenix
+<!-- BLUMECORE-YOUTUBER:v1gs2fqSccbgMBmclZN9:START -->
+170ae82b-d88d-4335-908e-97c6baa38770
+35180160-856c-49a8-be2b-e362027e8634
+babebac5-221a-4552-9ca9-067ba96ce4b2
+<!-- BLUMECORE-YOUTUBER:v1gs2fqSccbgMBmclZN9:END -->
+
 # BlumeCore: Lined
 <!-- BLUMECORE-YOUTUBER:JnuR0DgydiKnj8HqsIb0:START -->
 1b3e871e-50a0-4bab-ac85-d1cf12f230c8
