@@ -25,6 +25,11 @@ d37eae02-cd8e-4e9c-b9d3-313b59ce792f
 babebac5-221a-4552-9ca9-067ba96ce4b2
 <!-- BLUMECORE-YOUTUBER:v1gs2fqSccbgMBmclZN9:END -->
 
+# BlumeCore: GyeonMoung
+<!-- BLUMECORE-YOUTUBER:P0akSaMzKPb73iRFEV7b:START -->
+53a65061-117b-41a7-a5f5-d13259841700
+<!-- BLUMECORE-YOUTUBER:P0akSaMzKPb73iRFEV7b:END -->
+
 # BlumeCore: Lined
 <!-- BLUMECORE-YOUTUBER:JnuR0DgydiKnj8HqsIb0:START -->
 1b3e871e-50a0-4bab-ac85-d1cf12f230c8
